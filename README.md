@@ -23,4 +23,4 @@ This is just a TL ToDo List
 - [x] Shops (*Buy Clothes, Guns, Cars, Food, etc.*);
 - [x] Hunger and Thirsty System (*you need to eat and drink to survive, if not you will die.*);
 - [x] With Auto Backups will come the, Recovery System (*from Characters to Accounts content, also to server whole recovery*);
-- [+] more come to this list, just wait! ;)
+- [+] more come to this list, just wait! :D
